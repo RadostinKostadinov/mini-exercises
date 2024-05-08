@@ -1,0 +1,3 @@
+[submodule "pair-of-employees"]
+	path = pair-of-employees
+	url = https://github.com/RadostinKostadinov/pair-of-employees.git
