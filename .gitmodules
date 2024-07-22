@@ -1,3 +1,6 @@
 [submodule "pair-of-employees"]
 	path = pair-of-employees
 	url = https://github.com/RadostinKostadinov/pair-of-employees.git
+[submodule "angular-users-crud"]
+	path = angular-users-crud
+	url = https://github.com/RadostinKostadinov/angular-users-crud
